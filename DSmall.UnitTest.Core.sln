@@ -8,13 +8,25 @@ EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug-Net40|Any CPU = Debug-Net40|Any CPU
+		Debug-Net45|Any CPU = Debug-Net45|Any CPU
 		Release|Any CPU = Release|Any CPU
+		Release-Net40|Any CPU = Release-Net40|Any CPU
+		Release-Net45|Any CPU = Release-Net45|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{50C23663-4C1A-4E51-B959-66F9B1E090F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{50C23663-4C1A-4E51-B959-66F9B1E090F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50C23663-4C1A-4E51-B959-66F9B1E090F3}.Debug-Net40|Any CPU.ActiveCfg = Debug-Net40|Any CPU
+		{50C23663-4C1A-4E51-B959-66F9B1E090F3}.Debug-Net40|Any CPU.Build.0 = Debug-Net40|Any CPU
+		{50C23663-4C1A-4E51-B959-66F9B1E090F3}.Debug-Net45|Any CPU.ActiveCfg = Debug-Net45|Any CPU
+		{50C23663-4C1A-4E51-B959-66F9B1E090F3}.Debug-Net45|Any CPU.Build.0 = Debug-Net45|Any CPU
 		{50C23663-4C1A-4E51-B959-66F9B1E090F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50C23663-4C1A-4E51-B959-66F9B1E090F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50C23663-4C1A-4E51-B959-66F9B1E090F3}.Release-Net40|Any CPU.ActiveCfg = Release-Net40|Any CPU
+		{50C23663-4C1A-4E51-B959-66F9B1E090F3}.Release-Net40|Any CPU.Build.0 = Release-Net40|Any CPU
+		{50C23663-4C1A-4E51-B959-66F9B1E090F3}.Release-Net45|Any CPU.ActiveCfg = Release-Net45|Any CPU
+		{50C23663-4C1A-4E51-B959-66F9B1E090F3}.Release-Net45|Any CPU.Build.0 = Release-Net45|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

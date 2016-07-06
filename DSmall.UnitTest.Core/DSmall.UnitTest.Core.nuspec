@@ -10,7 +10,7 @@
     <licenseUrl>https://raw.githubusercontent.com/Davesmall28/DSmall.UnitTest.Core/master/LICENSE</licenseUrl>
     <description>$description$</description>
     <copyright>Copyright $author$ 2016</copyright>
-    <tags>DSmall Microsoft UnitTest Unit Test BDD Behaviour</tags>
+    <tags>DSmall Microsoft UnitTest Unit Test BDD Behaviour Test-Driven TDD Test Driven Development</tags>
   </metadata>
   <files>
     <file src="bin\Release-Net40\*.dll" target="lib\net40" />

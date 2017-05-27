@@ -1,4 +1,4 @@
-SET packageVersion=1.1.0-beta1
+SET packageVersion=1.1.0
 
 NuGet.exe pack ../Springboard365.UnitTest.Core.csproj -Build -symbols -Version %packageVersion%
 

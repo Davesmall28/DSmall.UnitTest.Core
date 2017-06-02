@@ -74,7 +74,6 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Specification.cs" />
     <Compile Include="SpecificationFixtureBase.cs" />
     <Compile Include="SpecificationBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

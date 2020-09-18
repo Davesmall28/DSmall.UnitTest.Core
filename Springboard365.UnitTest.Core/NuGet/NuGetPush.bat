@@ -1,4 +1,4 @@
-SET packageVersion=2.0.2
+SET packageVersion=2.0.3
 
 NuGet.exe pack ../Springboard365.UnitTest.Core.csproj -Build -Symbols -Version %packageVersion% -Properties Configuration=Release
 

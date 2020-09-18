@@ -4,12 +4,15 @@
     <id>$id$</id>
     <version>$version$</version>
     <title>$title$</title>
-    <authors>$author$</authors>
+    <authors>Springboard 365 Ltd</authors>
     <owners>$author$</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">Apache-2.0</license>
-    <description>$description$</description>
+    <description>The core framework for unit tests from Springboard 365 Ltd.</description>
     <copyright>Copyright $author$ 2020</copyright>
     <tags>Sprinboard365 Microsoft UnitTest Unit Test BDD Behaviour Test-Driven TDD Test Driven Development</tags>
+    <dependencies>
+        <group targetFramework=".NETFramework4.6.2" />
+    </dependencies>
   </metadata>
 </package>

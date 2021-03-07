@@ -2,10 +2,10 @@
 {
     using System;
 
-    public abstract class SpecificationFixtureBase<TUnderTest>
+    public abstract class SpecificationFixture<TUnderTest>
         where TUnderTest : class
     {
-        public SpecificationFixtureBase()
+        public SpecificationFixture()
         {
             UnderTest = (TUnderTest)Activator.CreateInstance(typeof(TUnderTest));
         }
